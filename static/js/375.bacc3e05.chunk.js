@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_react_app=self.webpackChunkmy_react_app||[]).push([[375],{8352:(a,s,c)=>{c.r(s),c.d(s,{default:()=>r});c(5043);var e=c(584),p=c(5469),t=c(579);const r=()=>(0,t.jsx)("div",{className:"product-list",children:e.A.map((a,s)=>(0,t.jsx)(p.A,{product:a},s))})}}]);
+//# sourceMappingURL=375.bacc3e05.chunk.js.map
